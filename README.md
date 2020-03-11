@@ -6,6 +6,7 @@ Alternative Hypothesis:
 Developed countries are more likely to have a less significant spread of viruses compared to developing countries.
 
 Data Specification
+
 Country:	The country whose developmental indices we are analyzing in relation to the spread of the virus	primary_key, float
 gdp_year:	gross domestic product, market value of all the final goods and services produced in a year of the country	float
 gdp_per_capita_year:	gross domestic product per capita, measure of a country's economic output that accounts for its number of people	float
