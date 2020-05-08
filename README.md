@@ -36,3 +36,6 @@ share_of_smoking_adults		| the share of adult population who smoke| World Bank|
 death_rate|	number of deaths/number of cases of COVID-19	| https://ourworldindata.org/coronavirus-data |
 deaths_per_million|	total number deaths per million people from COVID-19	| https://ourworldindata.org/coronavirus-data |
 total_cases_per_million	| the total number of cases per million people | https://ourworldindata.org/coronavirus-data |
+tourism expenditure	| the amount of expenditure in dollars a country spends on tourism | World Bank|
+travel service | | https://openflights.org/data.html  | 
+distance from wuhan | | |
